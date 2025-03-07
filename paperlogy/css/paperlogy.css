@@ -27,9 +27,9 @@
 }
 
 @font-face {
-  font-family:'Paperlogy'; src:url('../fonts/Paperlogy-7Bold.woff2') format('woff2'), url('../fonts/Paperlogy-7Bold.woff') format('woff'); font-weight:bold; font-style:normal;
+  font-family:'Paperlogy'; src:url('../fonts/Paperlogy-7Bold.woff2') format('woff2'), url('../fonts/Paperlogy-7Bold.woff') format('woff'); font-weight:700; font-style:normal;
 }
 
 @font-face {
-  font-family:'Paperlogy'; src:url('../fonts/Paperlogy-8ExtraBold.woff2') format('woff2'), url('../fonts/Paperlogy-8ExtraBold.woff') format('woff'); font-weight:bold; font-style:normal;
+  font-family:'Paperlogy'; src:url('../fonts/Paperlogy-8ExtraBold.woff2') format('woff2'), url('../fonts/Paperlogy-8ExtraBold.woff') format('woff'); font-weight:800; font-style:normal;
 }
